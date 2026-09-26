@@ -44,12 +44,8 @@ Source: [DataCo Smart Supply Chain Dataset on Kaggle](https://www.kaggle.com/dat
 - Customer segment analysis
 - Order status and late delivery risk
 
-## Dashboard
-![Supply Chain Analytics Dashboard](Supply_Chain_Dashboard.png)
-
 ## Project Files
 - `Supply_Chain_Delivery_Analysis.ipynb` – Jupyter Notebook containing the analysis.
-- `Supply_Chain_Dashboard.png` – Final dashboard image.
 
 ## Key Insights
 *To be updated after reviewing the analysis results.*
